@@ -1,39 +1,45 @@
 {
   "project_info": {
-    "project_number": "508128212987",
-    "firebase_url": "https://maps-2018-326a4.firebaseio.com",
-    "project_id": "maps-2018-326a4",
-    "storage_bucket": "maps-2018-326a4.appspot.com"
+    "project_number": "112560005017",
+    "firebase_url": "https://googel-maps-2018-2b96c.firebaseio.com",
+    "project_id": "googel-maps-2018-2b96c",
+    "storage_bucket": "googel-maps-2018-2b96c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:508128212987:android:a1d1ce9b8c3681aa",
+        "mobilesdk_app_id": "1:112560005017:android:a1d1ce9b8c3681aa",
         "android_client_info": {
           "package_name": "com.codingwithmitch.googlemaps2018"
         }
       },
       "oauth_client": [
         {
-          "client_id": "508128212987-qbtqiouctsvvbl7picsnn3adgdold6b4.apps.googleusercontent.com",
+          "client_id": "112560005017-7hs7kd7eu7m9k0j4jodebk79q46e2ceb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingwithmitch.googlemaps2018",
+            "certificate_hash": "8d56085445f1d3ae62121a82c797efcfac351080"
+          }
+        },
+        {
+          "client_id": "112560005017-kv0lh25v32k6ro5u4pudciquh2mgpfdn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCRgxWHg6lfsGPgJFTiyBI1jCBgFWC3J2A"
+          "current_key": "AIzaSyByDpgVAU9T6TUHIXDOgI1rEbIBUBn2hvw"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112560005017-kv0lh25v32k6ro5u4pudciquh2mgpfdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
